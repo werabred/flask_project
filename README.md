@@ -1,2 +1,2 @@
 # flask_project
-mgs406
+this is the week 10 assignment for mgs406
